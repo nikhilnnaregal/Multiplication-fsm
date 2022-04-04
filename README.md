@@ -1,1 +1,1 @@
-# Multiplication-fsm
+# multiplication_fsm-using-verilog
